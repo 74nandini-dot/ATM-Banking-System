@@ -1,0 +1,152 @@
+{
+    "10001": {
+        "name": "Nandini",
+        "pin": "fe2592b42a727e977f055947385b709cc82b16b9a87f88c6abf3900d65d0cdc3",
+        "balance": 10300.0,
+        "transactions": [
+            {
+                "date_time": "25-09-2026 12:02:28",
+                "type": "DEPOSIT",
+                "amount": 1000.0,
+                "balance": 10500.0,
+                "details": "Cash deposit"
+            },
+            {
+                "date_time": "25-09-2026 12:13:53",
+                "type": "WITHDRAW",
+                "amount": 500.0,
+                "balance": 10000.0,
+                "details": "Cash withdrawal"
+            },
+            {
+                "date_time": "25-09-2026 14:37:31",
+                "type": "DEPOSIT",
+                "amount": 100.0,
+                "balance": 10100.0,
+                "details": "Cash deposit"
+            },
+            {
+                "date_time": "25-09-2026 14:54:04",
+                "type": "DEPOSIT",
+                "amount": 100.0,
+                "balance": 10200.0,
+                "details": "Cash deposit"
+            },
+            {
+                "transaction_id": "TXN-20260925172603-6333",
+                "date_time": "25-09-2026 17:26:03",
+                "type": "DEPOSIT",
+                "amount": 100.0,
+                "balance": 10300.0,
+                "details": "Cash deposit"
+            },
+            {
+                "transaction_id": "TXN-20260925174353-5070",
+                "date_time": "25-09-2026 17:43:53",
+                "type": "RECEIVED",
+                "amount": 45.5,
+                "balance": 10345.5,
+                "details": "Received from Raushan (6274)"
+            },
+            {
+                "transaction_id": "TXN-20260925175446-2367",
+                "date_time": "25-09-2026 17:54:46",
+                "type": "WITHDRAW",
+                "amount": 45.5,
+                "balance": 10300.0,
+                "details": "Cash withdrawal"
+            },
+            {
+                "transaction_id": "TXN-20260925175500-6558",
+                "date_time": "25-09-2026 17:55:00",
+                "type": "DEPOSIT",
+                "amount": 50.5,
+                "balance": 10350.5,
+                "details": "Cash deposit"
+            },
+            {
+                "transaction_id": "TXN-20260925175521-1687",
+                "date_time": "25-09-2026 17:55:21",
+                "type": "TRANSFER",
+                "amount": 50.5,
+                "balance": 10300.0,
+                "details": "Transferred to Raushan (6274)"
+            }
+        ],
+        "daily_withdrawal": 545.5,
+        "last_withdrawal_date": "25-09-2026",
+        "failed_attempts": 0,
+        "lock_until": 0
+    },
+    "20002": {
+        "name": "Rahul",
+        "pin": "edee29f882543b956620b26d0ee0e7e950399b1c4222f5de05e06425b4c995e9",
+        "balance": 8000.0,
+        "transactions": [],
+        "daily_withdrawal": 0.0,
+        "last_withdrawal_date": "25-09-2026",
+        "failed_attempts": 0,
+        "lock_until": 0
+    },
+    "30003": {
+        "name": "Priya",
+        "pin": "318aee3fed8c9d040d35a7fc1fa776fb31303833aa2de885354ddf3d44d8fb69",
+        "balance": 15000.0,
+        "transactions": [],
+        "daily_withdrawal": 0.0,
+        "last_withdrawal_date": "25-09-2026",
+        "failed_attempts": 0,
+        "lock_until": 0
+    },
+    "6274": {
+        "name": "Raushan",
+        "pin": "fe2592b42a727e977f055947385b709cc82b16b9a87f88c6abf3900d65d0cdc3",
+        "balance": 8998.5,
+        "transactions": [
+            {
+                "transaction_id": "TXN-20260925173517-2025",
+                "date_time": "25-09-2026 17:35:17",
+                "type": "WITHDRAW",
+                "amount": 10.5,
+                "balance": 8978.5,
+                "details": "Cash withdrawal"
+            },
+            {
+                "transaction_id": "TXN-20260925174301-8315",
+                "date_time": "25-09-2026 17:43:01",
+                "type": "WITHDRAW",
+                "amount": 10.5,
+                "balance": 8968.0,
+                "details": "Cash withdrawal"
+            },
+            {
+                "transaction_id": "TXN-20260925174325-3814",
+                "date_time": "25-09-2026 17:43:25",
+                "type": "DEPOSIT",
+                "amount": 25.5,
+                "balance": 8993.5,
+                "details": "Cash deposit"
+            },
+            {
+                "transaction_id": "TXN-20260925174353-5987",
+                "date_time": "25-09-2026 17:43:53",
+                "type": "TRANSFER",
+                "amount": 45.5,
+                "balance": 8948.0,
+                "details": "Transferred to Nandini (10001)"
+            },
+            {
+                "transaction_id": "TXN-20260925175521-3493",
+                "date_time": "25-09-2026 17:55:21",
+                "type": "RECEIVED",
+                "amount": 50.5,
+                "balance": 8998.5,
+                "details": "Received from Nandini (10001)"
+            }
+        ],
+        "daily_withdrawal": 21.0,
+        "last_withdrawal_date": "25-09-2026",
+        "failed_attempts": 0,
+        "lock_until": 0
+    }
+}
