@@ -73,8 +73,8 @@
                 "details": "Transferred to Raushan (6274)"
             }
         ],
-        "daily_withdrawal": 545.5,
-        "last_withdrawal_date": "25-09-2026",
+        "daily_withdrawal": 0.0,
+        "last_withdrawal_date": "26-09-2026",
         "failed_attempts": 0,
         "lock_until": 0
     },
@@ -84,7 +84,7 @@
         "balance": 8000.0,
         "transactions": [],
         "daily_withdrawal": 0.0,
-        "last_withdrawal_date": "25-09-2026",
+        "last_withdrawal_date": "26-09-2026",
         "failed_attempts": 0,
         "lock_until": 0
     },
@@ -94,14 +94,14 @@
         "balance": 15000.0,
         "transactions": [],
         "daily_withdrawal": 0.0,
-        "last_withdrawal_date": "25-09-2026",
+        "last_withdrawal_date": "26-09-2026",
         "failed_attempts": 0,
         "lock_until": 0
     },
     "6274": {
         "name": "Raushan",
         "pin": "fe2592b42a727e977f055947385b709cc82b16b9a87f88c6abf3900d65d0cdc3",
-        "balance": 8998.5,
+        "balance": 9098.5,
         "transactions": [
             {
                 "transaction_id": "TXN-20260925173517-2025",
@@ -142,10 +142,18 @@
                 "amount": 50.5,
                 "balance": 8998.5,
                 "details": "Received from Nandini (10001)"
+            },
+            {
+                "transaction_id": "TXN-20260926151708-2265",
+                "date_time": "26-09-2026 15:17:08",
+                "type": "DEPOSIT",
+                "amount": 100.0,
+                "balance": 9098.5,
+                "details": "Cash deposit"
             }
         ],
-        "daily_withdrawal": 21.0,
-        "last_withdrawal_date": "25-09-2026",
+        "daily_withdrawal": 0.0,
+        "last_withdrawal_date": "26-09-2026",
         "failed_attempts": 0,
         "lock_until": 0
     }
