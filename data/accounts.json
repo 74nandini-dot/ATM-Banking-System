@@ -74,7 +74,7 @@
             }
         ],
         "daily_withdrawal": 0.0,
-        "last_withdrawal_date": "26-09-2026",
+        "last_withdrawal_date": "28-09-2026",
         "failed_attempts": 0,
         "lock_until": 0
     },
@@ -84,7 +84,7 @@
         "balance": 8000.0,
         "transactions": [],
         "daily_withdrawal": 0.0,
-        "last_withdrawal_date": "26-09-2026",
+        "last_withdrawal_date": "28-09-2026",
         "failed_attempts": 0,
         "lock_until": 0
     },
@@ -94,7 +94,7 @@
         "balance": 15000.0,
         "transactions": [],
         "daily_withdrawal": 0.0,
-        "last_withdrawal_date": "26-09-2026",
+        "last_withdrawal_date": "28-09-2026",
         "failed_attempts": 0,
         "lock_until": 0
     },
@@ -153,7 +153,7 @@
             }
         ],
         "daily_withdrawal": 0.0,
-        "last_withdrawal_date": "26-09-2026",
+        "last_withdrawal_date": "28-09-2026",
         "failed_attempts": 0,
         "lock_until": 0
     }
